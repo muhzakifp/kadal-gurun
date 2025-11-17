@@ -1,0 +1,1 @@
+print("hai saya berasal dari jawa")
