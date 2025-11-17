@@ -1,2 +1,2 @@
 print("hai saya berasal dari jawa")
-print("hidup jokowiiii")
+print("belajar git")
