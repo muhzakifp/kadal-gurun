@@ -1,3 +1,3 @@
-print("hai saya berasal dari jawa")
-print("belajar git")
+print("hai")
+print("nyoba git")
 print("capek laprak")
